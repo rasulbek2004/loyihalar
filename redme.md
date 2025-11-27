@@ -1,2 +1,3 @@
 # loyihalar
 loyiha
+amaliyot ishlar
